@@ -1,0 +1,12 @@
+{
+  "name": "loremipsum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "inspect": "node --inspect=9222 index.js"
+  },
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
